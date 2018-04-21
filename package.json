@@ -1,0 +1,14 @@
+{
+  "name": "nickcoin",
+  "version": "1.0.0",
+  "description": "First blockchain ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Das Nomula",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
